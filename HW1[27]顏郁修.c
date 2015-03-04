@@ -68,6 +68,8 @@ int main(void){
     	}
     }while(flag);
     
+    printf("");
+    
     system("pause");
     return 0;
 } 
